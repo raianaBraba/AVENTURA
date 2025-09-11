@@ -16,7 +16,17 @@ font-family: "bai jamjurre",sans-serif;
 
 }
 
+. passo.ativo{
+    display:block;
+}
+mais{
+    text-align: center;
+    max-widht:
+    90%;
 
-
+}
+img {
+    max-width: 90%;
+}
 
 
